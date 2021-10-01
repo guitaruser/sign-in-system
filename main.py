@@ -5,7 +5,7 @@ class Login:
     def __init__(self,root):
 
         # 2D list of users
-        self.users = [['load_thecode','password'],['user','pass'],['root','toor']]
+        self.users = ['2D list of username, passwords']
 
         # Tkinter FrontEnd
         self.root = root
